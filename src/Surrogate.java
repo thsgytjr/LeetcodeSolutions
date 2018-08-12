@@ -54,7 +54,5 @@ public class Surrogate {
     public static void main(String[] args) {
         Surrogate s = new Surrogate();
         s.reverse("hlDavidhl");
-        //BS
-        //IKR
     }
 }
