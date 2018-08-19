@@ -2,74 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="916e7ba4-2f4d-4715-b3e9-f26bc73e0e86" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CopyListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseStringPartThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/AmazonExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/AnagramMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/BinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/CitySkyLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/CommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/CompareNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/CountWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/DefectFix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/DivideTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/EightHouses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FibAndFac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FileSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindAllDuplicateInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindArrayMedian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindDisappeared.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindMinLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindNotDuplicatedInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindRightIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FindSqure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FirstUniqueChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/FlippingAnImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/GCD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/IslandPerimeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/JewelsStones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/LinkedListDoubled.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/LinkedListPlay$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/LinkedListPlay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/LinkedListPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/LinkedListUS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/LongestPalindromicSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/MajorityElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/MergeSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/MoveZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/PG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/PhoneNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/PlayGround.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/PowerOfTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/RepeatedStringMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/ReverseVowels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/RobotMove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/RotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/Sample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/ScoreAfterFlip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/SmallestInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/StringCompression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/StringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/SumOfTwoIntegers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/Surrogate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/TransposeMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/TwoSumArrayElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/UniqueMorseCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/ValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/atoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/playGround/reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UniqueCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UniqueCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeSolutions/UniqueCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeSolutions/UniqueCharacter.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,71 +19,153 @@
     <session id="-1447373839">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="2" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="11" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="739" />
+          <entry key="java" value="2472" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="739" />
+          <entry key="JAVA" value="2472" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CommonPrefix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Surrogate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UniqueCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Surrogate.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1026">
+                  <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/UniqueCharacter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="380">
+                  <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/AmazonExam.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ReverseStringPartThree.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/CopyListWithRandom.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="392">
+                  <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/MissingNumber.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="114">
+                  <caret line="6" column="15" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/LinkedListPractice.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/LinkedListPlay.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="399">
+                  <caret line="23" column="25" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Node.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="13" selection-start-column="13" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Node.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/B.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="342">
+                  <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,6 +173,16 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Node</find>
+      <find>head!=null</find>
+      <find>LinkedList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -187,6 +216,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/Surrogate.java" />
         <option value="$PROJECT_DIR$/src/UniqueCharacter.java" />
+        <option value="$PROJECT_DIR$/src/ReverseStringPartThree.java" />
+        <option value="$PROJECT_DIR$/src/CopyListWithRandom.java" />
+        <option value="$PROJECT_DIR$/src/MissingNumber.java" />
       </list>
     </option>
   </component>
@@ -196,8 +228,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2054" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1775" />
+    <option name="y" value="-8" />
     <option name="width" value="1680" />
     <option name="height" value="1028" />
   </component>
@@ -209,9 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,18 +258,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534144702700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534713424065" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,9 +285,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniqueCharacter">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="CommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommonPrefix" />
+      <module name="LeetcodeSolutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyListWithRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyListWithRandom" />
+      <module name="LeetcodeSolutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+      <module name="LeetcodeSolutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringPartThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseStringPartThree" />
       <module name="LeetcodeSolutions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -279,9 +335,15 @@
     <list>
       <item itemvalue="Application.CommonPrefix" />
       <item itemvalue="Application.UniqueCharacter" />
+      <item itemvalue="Application.ReverseStringPartThree" />
+      <item itemvalue="Application.CopyListWithRandom" />
+      <item itemvalue="Application.MissingNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.CopyListWithRandom" />
+        <item itemvalue="Application.ReverseStringPartThree" />
         <item itemvalue="Application.UniqueCharacter" />
         <item itemvalue="Application.CommonPrefix" />
       </list>
@@ -306,9 +368,10 @@
     <option name="totallyTimeSpent" value="394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2054" y="0" width="1680" height="1028" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25925925" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23987207" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -318,14 +381,15 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32997763" />
+      <window_info anchor="bottom" id="Statistic" order="11" weight="0.32997763" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -364,6 +428,30 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseStringPartThree.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CopyListWithRandom.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CopyListWithRandom.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CopyListWithRandom.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/UniqueCharacter.java</url>
           <line>3</line>
@@ -380,43 +468,61 @@
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MissingNumber.java</url>
+          <line>2</line>
+          <properties class="MissingNumber" method="missingNumber">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>'Z'</expression-string>
+        <expression-string>nums[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'A'</expression-string>
+        <expression-string>2^1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'a'</expression-string>
+        <expression-string>3^1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'z'</expression-string>
+        <expression-string>5^2</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>word.toLowerCase()</expression-string>
+        <expression-string>3^5</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>word</expression-string>
+        <expression-string>3^4</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>hm</expression-string>
+        <expression-string>3^0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3^3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3^2</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -435,15 +541,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Surrogate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
+        <state relative-caret-position="1026">
           <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UniqueCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="380">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmazonExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseStringPartThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyListWithRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
